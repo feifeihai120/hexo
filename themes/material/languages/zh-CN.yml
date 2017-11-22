@@ -2,6 +2,7 @@ sidebar:
     homepage: "主页"
     archive: "归档"
     article_num: "文章总数"
+
 post:
     visitor: "访客"
     views: "浏览量"
@@ -29,3 +30,6 @@ title:
 misc:
     home: "主页"
     theme: "主题"
+
+About: "关于我"
+TimeLine: "时间轴"
