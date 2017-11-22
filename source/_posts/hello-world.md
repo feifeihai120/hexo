@@ -8,14 +8,14 @@ Hexo+Github+域名绑定+Material Theme 快速搭建个人博客.
 
 ### 流程
 
-① Node.js 环境
-② Git 环境
-③ GitHub 注册和配置
-④ Hexo 安装配置
-⑤ 关联 Hexo 与 GitHub Pages
-⑥ GitHub Pages 地址解析到个人域名
-⑦ Material Theme 主题配置
-⑧ Hexo 的常用操作
+* Node.js 环境
+* Git 环境
+* GitHub 注册和配置
+* Hexo 安装配置
+* 关联 Hexo 与 GitHub Pages
+* GitHub Pages 地址解析到个人域名
+* Material Theme 主题配置
+* Hexo 的常用操作
 
 ### Create a new post
 
